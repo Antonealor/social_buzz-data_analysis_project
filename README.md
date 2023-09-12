@@ -1,5 +1,6 @@
 # Social Buzz; Content Category Analysis
-
+### Table of Contents
+1. [Projcet Recap](#projectrecap)
 ## Project Recap
 
 Social Buzz is a start up company in the social media and content creation industry. Its located in San Fransico with 250 employees.
