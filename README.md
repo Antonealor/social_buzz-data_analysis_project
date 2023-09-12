@@ -1,6 +1,18 @@
 # Social Buzz; Content Category Analysis
 ### Table of Contents
-1. [Projcet Recap](#projectrecap)
+1. [Projcet Recap](#project-recap)
+2. [The Problem](#the-problem)
+3. [Data Sources](#data-sources)
+4. [Tools](#tools)
+5. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+6. [Exploratory Data Analysis](#exploratory-data-analysis)
+7. [Data Analysis](#data-analysis)
+8. [Insights/Results/Findings](#insights/results/findings)
+9. [Recommendations](#recommendations)
+10. [Limitations](#limitations)
+11. [References](#references)
+12. [Feedback](#feedback) 
+
 ## Project Recap
 
 Social Buzz is a start up company in the social media and content creation industry. Its located in San Fransico with 250 employees.
