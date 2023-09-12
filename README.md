@@ -85,4 +85,23 @@ I was also interested in discoving what types of contents were most popular and 
 3. Cumulatively, most posts are made in the month of May
 4. Out of 969, 211 sentiment score, 84.55% were positive, 8.57% were neutral while 6.8% were negative.
 5. The top five categories of content are Culture, Healthy eating, travel, technology and science.
+6. Video contents were the most popular followed by GIF while photos and audios were the least favourite content types.
+
+## Recommendations
+- Social Buzz should model most of their posts and advertisement contents around the themes of culture, healthy eating, travel, technology and science.
+- Most of these contents should be in video or GIF formats and
+- Specific promotions could be targeted for the months of May and January which are the months of popular engagements.
+- Social Buzz can capitalize on the massive approval rating of their contents to seek business opportunities with other companies operating in the domain of the top five categories as shown above.
+
+## Limitations
+1. The datacleaning process which included removal of some items with missing values could have affected the overal outcomes.
+
+## References
+- ChatGPT
+- www.youtube.com
+
+😄 
+
+🥇
+  
    
