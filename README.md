@@ -103,5 +103,8 @@ I was also interested in discoving what types of contents were most popular and 
 😄 
 
 🥇
-  
+
+### Feedback
+
+For your queries, comments and feedback please reach out to me via [email](antonealor@gmail.com) or (+254 725527777). You can as well leave your comment in my [linkedin profile](https://www.linkedin.com/in/antonyoniala/)
    
