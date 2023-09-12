@@ -69,9 +69,10 @@ To be able to understand the data and explore how it could help me answer the qu
 
 ## Data Analysis
 
-Using Excel Pivot tables, I was able to analyze the cleaned data and to gather insights. I also used the Chart fucntionality to be able to visualize the data as below;
+Using Excel Pivot tables, I was able to analyze the cleaned data and to gather insights on the top 5 popular content categories. I also used the Chart fucntionality to be able to visualize the data as below;
 
-![image](https://github.com/Antonealor/social_buzz-data_analysis_project/assets/105086797/a82e22f1-0d87-4eff-9675-0b01022dff36)
+![socialbuzz](https://github.com/Antonealor/social_buzz-data_analysis_project/assets/105086797/d4442cd8-7d46-4532-b665-d2851d061bae)
+
 
 I was also interested in discoving what types of contents were most popular and so I used the graph below to visualize that aspect;
 
